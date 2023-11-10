@@ -1,0 +1,4 @@
+PERCOBAAN PROJEK TO DO LIST
+- Membuat projek dengan HTML
+- Lalu di hias dengan CSS
+- Dan dibuat interaktif dengan javascript
