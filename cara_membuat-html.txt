@@ -1,0 +1,3 @@
+Cara membuat HTML
+- Buat halaman pendaftaran untuk webpage
+- Buat halaman login untuk masuk ke halaman utama/homepage
